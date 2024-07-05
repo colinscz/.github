@@ -22,10 +22,13 @@ Declarative ThreeJS using Vue
 
 ## Ecosystem
 
-| Package                     | Version                                                                                            |
-| --------------------------- | :------------------------------------------------------------------------------------------------- |
-| [`@tresjs/core` ](https://github.com/TresJS/tres)     | ![tres version](https://img.shields.io/npm/v/@tresjs/core/latest.svg?label=%20&color=%2382DBCA)    |
-| [`@tresjs/cientos`](https://github.com/TresJS/cientos)    | ![cientos version](https://img.shields.io/npm/v/@tresjs/cientos/latest.svg?label=%20&color=%23f19b00) |
-| [`@tresjs/post-processing`](https://github.com/TresJS/post-processing)   | ![post-processing version](https://img.shields.io/npm/v/@tresjs/post-processing/latest.svg?label=%20&color=ff7bac) |
-| [`@tresjs/nuxt`](https://github.com/TresJS/nuxt)  | ![nuxt version](https://img.shields.io/npm/v/@tresjs/nuxt/latest.svg?label=%20&color=4f4f4f&logo=nuxt.js) |
-| [`@tresjs/leches` 🍰](https://github.com/TresJS/leches)  | ![tresleches version](https://img.shields.io/npm/v/@tresjs/leches/latest.svg?label=%20&color=ffffff) |
+## Ecosystem
+
+| Package                     | Version                                                                                            | Downloads |
+| --------------------------- | :------------------------------------------------------------------------------------------------- | :-------- |
+| [`@tresjs/core` ](https://github.com/TresJS/tres)     | ![tres version](https://img.shields.io/npm/v/@tresjs/core/latest.svg?label=%20&color=%2382DBCA)    | ![tres downloads](https://img.shields.io/npm/dm/@tresjs/core.svg?label=%20&color=%2382DBCA) |
+| [`@tresjs/cientos`](https://github.com/TresJS/cientos)    | ![cientos version](https://img.shields.io/npm/v/@tresjs/cientos/latest.svg?label=%20&color=%23f19b00) | ![cientos downloads](https://img.shields.io/npm/dm/@tresjs/cientos?label=%20&color=%23f19b00) |
+| [`@tresjs/post-processing`](https://github.com/TresJS/post-processing)   | ![post-processing version](https://img.shields.io/npm/v/@tresjs/post-processing/latest.svg?label=%20&color=ff7bac) | ![post-processing downloads](https://img.shields.io/npm/dm/@tresjs/post-processing?label=%20&color=ff7bac) |
+| [`@tresjs/nuxt`](https://github.com/TresJS/nuxt)  | ![nuxt version](https://img.shields.io/npm/v/@tresjs/nuxt/latest.svg?label=%20&color=4f4f4f&logo=nuxt.js) | ![nuxt downloads](https://img.shields.io/npm/dm/@tresjs/nuxt?label=%20&color=4f4f4f&logo=nuxt.js) |
+| [`@tresjs/leches` 🍰](https://github.com/TresJS/leches)  | ![tresleches version](https://img.shields.io/npm/v/@tresjs/leches/latest.svg?label=%20&color=ffffff) | ![post-processing downloads](https://img.shields.io/npm/dm/@tresjs/leches?label=%20&color=ffffff) |
+
