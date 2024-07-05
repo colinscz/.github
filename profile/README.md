@@ -22,8 +22,6 @@ Declarative ThreeJS using Vue
 
 ## Ecosystem
 
-## Ecosystem
-
 | Package                     | Version                                                                                            | Downloads |
 | --------------------------- | :------------------------------------------------------------------------------------------------- | :-------- |
 | [`@tresjs/core` ](https://github.com/TresJS/tres)     | ![tres version](https://img.shields.io/npm/v/@tresjs/core/latest.svg?label=%20&color=%2382DBCA)    | ![tres downloads](https://img.shields.io/npm/dm/@tresjs/core.svg?label=%20&color=%2382DBCA) |
