@@ -42,9 +42,9 @@ Rest assured, this role does not require any extra responsibilities nor time com
 
 #### Nomination process
 
-You may self-nominate yourself bu sending the message `!contribute` to any Discord channel. If you do this, please share a second message with a link or a description of your contribution.
+You may self-nominate yourself by sending the message `!contribute` to any Discord channel. If you do this, please share a second message with a link or a description of your contribution.
 
-You may also be granted this role automatically if you are acrive and helpful on Discord
+You may also be granted this role automatically if you are active and helpful on Discord
 
 ### Level 2: Maintainer
 
