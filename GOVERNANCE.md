@@ -52,7 +52,7 @@ The Maintainer role is available to contributors who want to join the team and t
 
 This role is critical to TresJS long-term success and growth. Mantainers act as the public face of the project and are most likely to be your first point of contact when interacting with Discord or Github.
 
-[!NOTE]  
+> [!NOTE]  
 > **Maintainers are not required to write code**! Some Maintainers spend most of their time inside of Discord, maintaining a healthy community there. Others work on technical documentation, reviewing PRs, support, or design.
 
 #### Recognized Contributions
