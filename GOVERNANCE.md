@@ -59,11 +59,11 @@ This role is critical to TresJS long-term success and growth. Mantainers act as 
 
 There is no strict minimum number of contributions needed to reach this level, as long as you can show sustained involvement over some amount of time (at least a few months).
 
-- **GitHub**: Submitting multiple non-trivial pull requests and RFCs
-- **GitHub**: Reviewing multiple non-trivial pull requests and RFCs
-- **Discord**: Supporting users in Discord, especially in the #support channel
-- **Discord**: Active participation in RFC calls and other events
-- **GitHub + Discord**: Triaging and confirming user issues
+- **GitHub:**: Submitting multiple non-trivial pull requests and RFCs
+- **GitHub:**: Reviewing multiple non-trivial pull requests and RFCs
+- **Discord:**: Supporting users in Discord, especially in the #support channel
+- **Discord:** Active participation in RFC calls and other events
+- **GitHub + Discord:** Triaging and confirming user issues
 
 This list is incomplete! Similar contributions are also recognized.
 
