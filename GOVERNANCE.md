@@ -29,8 +29,8 @@ Have you done any of the following? **Congratulations!, you are officially recog
 
 Examples of recognized contributions:
 
-- **Github** Filling a defailed bug report or feature request
-- **Github** Updating documentation or fixing a typo
+- **Github:** Filing a detailed bug report or feature request
+- **Github:** Updating documentation or fixing a typo
 - Helping people on GitHub, Discord, etc.
 - Answering questions on Stack Overflow, socials, etc.
 - Creating tutorials, videos, courses and livestreams about TresJS
