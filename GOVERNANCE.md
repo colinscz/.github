@@ -71,9 +71,9 @@ This list is incomplete! Similar contributions are also recognized.
 
 - All privileges of the [Contributor role](#level-1-contributor), plus...
 - Invitation to the `@mantainer` role in Discord
-- Invitation to the private `#maintainers` channel on Discord.
-- Invitation to the `TresJS` organization on GitHub.
-- Invitation to the `@maintainers` team on GitHub.
+- Invitation to the private `#maintainers` channel on Discord
+- Invitation to the `TresJS` organization on GitHub
+- Invitation to the `@maintainers` team on GitHub
 - Ability to moderate Discord to remove spam, harmful speech, etc.
 - Ability to push branches directly to the withTresJS GitHub organization (personal forks no longer needed). (Except for the `main` branch)
 - Ability to review GitHub PRs.
