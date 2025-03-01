@@ -83,13 +83,13 @@ This list is incomplete! Similar contributions are also recognized.
 
 #### Accountabilities
 
-- Participate in the project as a team player.
-- Bring a friendly, welcoming voice to the TresJS community.
-- Be active on Discord, especially in the support channels.
-- Triage new issues.
-- Review pull requests.
-- Merge some, non-trivial community pull requests.
-- Merge your own pull requests (once reviewed and approved).
+- Participating in the project as a team player
+- Bringing a friendly, welcoming voice to the TresJS community
+- Being active on Discord, especially in the support channels
+- Triaging new issues
+- Reviewing pull requests
+- Merge some, non-trivial community pull requests
+- Merge your own pull requests (once reviewed and approved)
 
 #### Nomination
 
@@ -100,22 +100,22 @@ This list is incomplete! Similar contributions are also recognized.
 
 ### Level 3: Core Maintainer
 
-The **Core** role is available to community members who have a larger-than-usual impact and commitment to the TresJS community and ecosystem. They are seen as leaders in the project and are listened to by the wider TresJS community. A Core memmber is recognized for contributing a significant amount of time and energy to the project through issues, pull requests, bug fixes, implementing advanced enhancements/features, and/or proacttively providing feedback on RFCs.
+The **Core Maintainer** role is available to community members who have a larger-than-usual impact and commitment to the TresJS community and ecosystem. They are seen as leaders in the project and are listened to by the wider TresJS community. A Core memmber is recognized for contributing a significant amount of time and energy to the project through issues, pull requests, bug fixes, implementing advanced enhancements/features, and/or proacttively providing feedback on RFCs.
 
 #### Privileges
 
 - All privileges of the [Maintainer role](#level-2-maintainer), plus...
 - Invitation to the `@core` role on Discord
-- Invitation to the private `#core-team` channel on Discord.
-- Invitation to the `@core` team on GitHub.
-- Ability to vote on most initiatives (see Voting below).
+- Invitation to the private `#core-team` channel on Discord
+- Invitation to the `@core` team on GitHub
+- Ability to vote on most initiatives (see Voting below)
 
 #### Accountabilities
 
 - All of the responsibilities of L2, including...
-- Ownership over specific part(s) of the project (a repo, a package, a website).
-- Ownership over the long-term health and success of TresJS.
-- Leadership as a role-model to other maintainers and community members.
+- Ownership over specific part(s) of the project (a repo, a package, a website)
+- Ownership over the long-term health and success of TresJS
+- Leadership as a role-model to other maintainers and community members
 
 #### Nomination
 
@@ -134,14 +134,14 @@ In extremely rare cases, a Steward can act unilaterally when they believe it is 
 
 The project Steward is currently [@alvarosabu](https://github.com/alvarosabu)
 
-#### Responsabilities
+#### Privileges
 
-- Access to `@tresjs` social media accounts.
-- Access to organization Netlify account.
-- Administrator privileges on the TresJs Github organization.
-- Administration privileges on the TresJS Discord server.
-- Publish access to all the organization's packages on NPM.
-- Domain registrant and DNS access to the `tresjs.org` domain and subdomains.
+- Access to `@tresjs` social media accounts
+- Access to organization Netlify account
+- Administrator privileges on the TresJs GitHub organization
+- Administration privileges on the TresJS Discord server
+- Publish access to all the organization's packages on NPM
+- Domain registrant and DNS access to the `tresjs.org` domain and subdomains
 - Ability to initiate a vote
 - Ability to veto votes and resolve voting deadlocks
 - Define project direction and planning
@@ -225,7 +225,7 @@ If the pull request submitter is not a Core Member, the PR can be closed by any 
 **Who can vote:** Core members (L3 and above). All Maintainers are encouraged to discuss and voice their opinion in the pull request discussion. Core members should take the opinions of Maintainers into consideration when voting.
 
 1. The pull request discussion thread is used to discuss the governance change.
-2. The normal 3 day voting & discussion window begins with either the PR creation or the removal of `WIP:` from the PR title if the PR was created as a draft.
+2. The normal 5 day voting & discussion window begins with either the PR creation or the removal of `WIP:` from the PR title if the PR was created as a draft.
 3. Voting can be done in the pull request via a review of either **Approve (For)** or **Change Requested (Against)**.
 4. The vote must receive a simple majority (50%+) to pass.
 5. **If the vote passes** the PR is merged and the changes take effect immediately.
