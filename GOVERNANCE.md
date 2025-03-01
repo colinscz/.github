@@ -76,9 +76,9 @@ This list is incomplete! Similar contributions are also recognized.
 - Invitation to the `@maintainers` team on GitHub
 - Ability to moderate Discord to remove spam, harmful speech, etc.
 - Ability to push branches directly to the withTresJS GitHub organization (personal forks no longer needed). (Except for the `main` branch)
-- Ability to review GitHub PRs.
-- Ability to merge some GitHub PRs.
-- Ability to vote on some initiatives (see Voting below).
+- Ability to review GitHub PRs
+- Ability to merge some GitHub PRs
+- Ability to vote on some initiatives (see Voting below)
 
 
 #### Accountabilities
