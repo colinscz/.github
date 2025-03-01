@@ -159,7 +159,7 @@ The project Steward is currently [@alvarosabu](https://github.com/alvarosabu)
 
 Contributor roles are granted for as long as the person wishes to engage with the project. However, over time an active community member may choose to step away from the TresJS ecosystem to work on other things. Moving on from a project is a natural and well-understood part of any open source community, and we celebrate it!
 
-Alumni is a special designation and role for any person who was once an active maintainer (L2 or above) but is now no longer actively involved. By retiring and joining Alumni you trade-in your current set of roles, privileges, and responsibilities for a new, special Alumni role (which comes with its own set of Privileges, as described above).
+Alumni is a special designation and role for any person who was once an active maintainer (L2 or above) but is now no longer actively involved. By retiring and joining Alumni you trade-in your current set of roles, privileges, and responsibilities for a new, special Alumni role (which comes with its own set of privileges, as described above).
 
 As a Maintainer (L2 or above) you can retire your role at any time by pinging the project Steward and requesting Alumni status. You can initiate this action yourself if you know ahead-of-time that you need to step away from the project.
 
