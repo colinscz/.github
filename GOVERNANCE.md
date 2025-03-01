@@ -228,8 +228,8 @@ If the pull request submitter is not a Core Member, the PR can be closed by any 
 2. The normal 3 day voting & discussion window begins with either the PR creation or the removal of `WIP:` from the PR title if the PR was created as a draft.
 3. Voting can be done in the pull request via a review of either **Approve (For)** or **Change Requested (Against)**.
 4. The vote must receive a simple majority (50%+) to pass.
-5. **If the vote passes:** the PR is merged and the changes take effect immediately.
-6. **If the vote fails:** the PR is closed and no change occurs.
+5. **If the vote passes** the PR is merged and the changes take effect immediately.
+6. **If the vote fails** the PR is closed and no change occurs.
 
 
 ---
