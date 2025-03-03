@@ -180,8 +180,8 @@ The project Steward may initiate a vote for any unlisted project decision. [Gene
 ### General Voting Rules
 
 - Members may abstain from any vote.
-- Members who do not vote within 3 days will automatically abstain.
-- Stewards may reduce the 3 day automatic abstain for urgent decisions.
+- Members who do not vote within 5 days will automatically abstain.
+- Stewards may reduce the 5 day automatic abstain for urgent decisions.
 - Stewards reserve the right to veto approval with a publicly disclosed reason.
 
 ## Voting: Maintainer (L2) Nomination
@@ -193,7 +193,7 @@ This process kicks off once a valid nomination has been made. See ["Maintainer -
 1. A vote thread should be created in Discord #maintainers channel (the private channel for all maintainers).
 2. A vote thread can be created by any Maintainer, Core member, or the Steward.
 3. Once a vote thread is created, existing Maintainers can discuss the nomination in private.
-4. The normal 3 day voting & discussion window begins with the thread creation.
+4. The normal 5 day voting & discussion window begins with the thread creation.
 5. Voting can be done in the thread (visible to other voters) or in a private DM to the project Steward.
 6. Once the vote is complete, the thread is deleted.
 7. The vote must receive an overwhelming majority (70%+) to pass.
@@ -209,7 +209,7 @@ This process kicks off once a valid nomination has been made. See ["Core Member 
 1. A vote thread should be created in Discord `#core` channel (the private channel for Core members).
 2. A vote thread can be created by any Core member, or the Steward.
 3. Once a vote thread is created, existing Core members can discuss the nomination in private.
-4. The normal 3 day voting & discussion window begins with the thread creation.
+4. The normal 5 day voting & discussion window begins with the thread creation.
 5. Voting can be done in the thread (visible to other voters) or in a private DM to the project Steward.
 6. Once the vote is complete, the thread is deleted.
 7. The vote must receive an overwhelming majority (70%+) to pass.
