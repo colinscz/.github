@@ -173,7 +173,7 @@ Adding a new third party library is generally discouraged, unless it is absolute
 
 ## Keep core small
 
-The core package should be as small as possible, it should only contain the core functionality of the library. If you are adding a new feature, please consider adding it as a plugin instead. for example, if you want to add support for [Effect Composer](https://threejs.org/examples/?q=compo#webgl_postprocessing_effectcomposer) you should create a new package called `@tresjs/post-processing` and add it as a plugin. If it's a smaller scope you can always add it to the `cientos` package.
+The core package should be as small as possible, it should only contain the core functionality of the library. If you are adding a new feature, please consider adding it as a plugin instead. If it's a smaller scope you can always add it to the `cientos` package.
 
 ### Assets
 
