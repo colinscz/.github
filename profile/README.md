@@ -10,6 +10,7 @@ Declarative ThreeJS using Vue
 <div align="center">
   <a href="https://docs.tresjs.org/">Documentation</a> —
   <a href="https://docs.tresjs.org/guide/">Getting Started</a> —
+  <a href="../CONTRIBUTING.md">Contribution Guidelines</a> —
   <a href="https://play.tresjs.org">Playground</a> —
   <a href="https://docs.tresjs.org/cookbook/">Cookbook</a>
 </div>
@@ -19,6 +20,7 @@ Declarative ThreeJS using Vue
 </h3>
 
 ---
+
 
 ## Ecosystem
 
